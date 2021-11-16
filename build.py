@@ -11,7 +11,7 @@ def build_home():
 def topic_pages():
     if not (site_path / 'topic' ).exists():
         (site_path / 'topic' ).mkdir(parents=True, exist_ok=True)    
-        
+
     topics_path = Path.cwd() / 'data' / 'topics'
     topic_files = [a.stem for a in topics_path.iterdir()]
     
@@ -33,6 +33,13 @@ if __name__ == '__main__':
         shutil.rmtree((site_path / 'assets'))
         shutil.copytree((Path.cwd() / 'assets'), (site_path / 'assets')) 
 
+    # Copy Netlify admin to site directory
+    if not (site_path / 'admin').exists():
+        shutil.copytree((Path.cwd() / 'admin'), (site_path / 'admin')) 
+    else:
+        shutil.rmtree((site_path / 'admin'))
+        shutil.copytree((Path.cwd() / 'admin'), (site_path / 'admin')) 
+    
     build_home()
     topic_pages()
     print(f"--- {time.time() - start_time} seconds ---")
