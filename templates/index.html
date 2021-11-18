@@ -1,14 +1,17 @@
 <html>
 
 <head>
-    <title>Some HTML in here</title>
+    <title>Anthropology 281</title>
 </head>
 
 <body>
-    <h1>Look ma! HTML!</h1>
+    <h1>Anthropology 281</h1>
+    <p>Topics:</p>
+    <ul>
     {% for t in topics %}
-    <a href="/topic/{{t.stem}}">{{ t.title }}</a>
+    <li><a href="/topic/{{t.stem}}">{{ t.title }}</a></li>
     {% endfor %}
+    </ul>
 </body>
 
 </html>
