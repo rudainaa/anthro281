@@ -23,14 +23,6 @@ title: The Importance of Caribou
 
 <!--EndFragment-->
 
-* <!--StartFragment-->
-
-  **[We Live in the World Together](https://www.youtube.com/watch?v=yRPCAfwkb1g&list=OLAK5uy_kARXYB7tpv-6uWvBK0x_m9DjC2tjVHv3I)**
-
-  <!--EndFragment-->
-
-  * This link is a YouTube playlist that contains songs and stories of the Gwich'in people.
-
 **Caribou Fact Sheets:**
 
 <!--StartFragment-->
