@@ -1,5 +1,6 @@
 import srsly 
 import frontmatter
+import markdown
 from pathlib import Path
 from fastapi import FastAPI, Request, HTTPException
 from fastapi.staticfiles import StaticFiles
@@ -23,7 +24,7 @@ def load_topics(stem=None):
         stem = t[0]
         md = t[1]
         md.stem = stem
-        md.content = md.content.replace('\n','<br>')
+        md.content = markdown.markdown(md.content)
         topics.append(md)
     return topics
 
