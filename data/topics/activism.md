@@ -1,6 +1,6 @@
 ---
 layout: topic
-title: Activism
+title: Gwich'in Activism, Past and Present
 ---
 
 
