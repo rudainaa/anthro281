@@ -1,5 +1,5 @@
 ---
 layout: topic
-title: This is a test
+title: Who are the Gwich'in
 ---
-This is my test. In class
+Gwich’in cultural resources/websites
