@@ -28,7 +28,7 @@ title: Gwich'in Activism, Past and Present
    <https://www.wilderness.org/articles/blog/alaska-natives-frontline-another-lands-battle>
 
    * Alaskan Natives unite against Trump
-3. Gwich’in Steering Committee--who are they and what are their goals 
+3. Gwich’in Steering Committee: who are they and what are their goals 
 
    <https://ourarcticrefuge.org/gwichin-steering-committee/>
 
