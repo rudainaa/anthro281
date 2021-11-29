@@ -2,7 +2,24 @@
 layout: topic
 title: Gwich'in Activism, Past and Present
 ---
-1. Current activists and their stories
+ <section id="portfolio" class="portfolio">
+  <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="300">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="../assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>This is the title</h4>
+                <p>You can put all the text you want here.</p>
+                <div class="portfolio-links">
+                  <a href="../assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+</section>
+ 1. <p data-bs-toggle="tooltip" data-bs-placement="top" title="Tooltip on top">Current activists and their stories</p>
 
    <https://grist.org/article/james1/> and <https://www.protectthearctic.org/blog/this-is-my-church-reflections-on-the-arctic-refuge-from-sarah-james> and <https://crcc.usc.edu/sarah-james-fighting-for-whats-sacred-in-the-arctic-national-wildlife-refuge/>
 
