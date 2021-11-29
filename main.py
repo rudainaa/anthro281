@@ -40,6 +40,7 @@ def index(request:Request):
 @app.get("/topic/{slug}")
 def topics(request:Request, slug:str):
     context = {"request": request}
+    context['topics'] = load_topics()
     context['page'] = load_topics(stem=slug)[0]
     
     return templates.TemplateResponse("topic.html", context)
