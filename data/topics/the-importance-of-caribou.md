@@ -3,6 +3,10 @@ layout: topic
 title: The Importance of Caribou
 thumbnail: /assets/media/09alaska-refuge5-superjumbo.jpg
 ---
+```
+
+```
+
 **The Caribou People**
 
 *The Gwich’in People & Their Activism Involving Caribou*
