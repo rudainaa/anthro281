@@ -3,9 +3,9 @@ layout: topic
 title: The Importance of Caribou
 thumbnail: /assets/media/09alaska-refuge5-superjumbo.jpg
 ---
-## *"We have a right to be caribou people. We believe God put us here to take care of this part of the world"* 
+## *"We have a right to be caribou people. We believe God put us here to take care of this part of the world"*
 
-### *Sarah James (Gwich'in Elder & Activist)*
+#### *Sarah James (Gwich'in Elder & Activist)*
 
 **The Caribou People**
 
