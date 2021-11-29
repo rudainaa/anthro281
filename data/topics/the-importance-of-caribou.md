@@ -14,8 +14,7 @@ title: The Importance of Caribou
 * [Peter Mather Photography: Caribou People](https://www.petermather.com/Caribou-People-1/)
 
   * The photographer Peter Matther, documents the Gwich’in people of arctic village and their relationship with the Porcupine Caribou Herd.
-* [Exploring a Timeless Wilderness, Before the Drilling Begins](https://www.nytimes.com/2019/09/09/travel/alaska-arctic-national-wildlife-refuge.html)
-* [Sitting in the Middle of a Massive Caribou Migration at Arctic National Wildlife Refuge](https://youtu.be/BcnbFAD5Kc0)[](https://alaskamagazine.com/authentic-alaska/culture/caribou-people/)
+* [Exploring a Timeless Wilderness, Before the Drilling Begins](https://www.nytimes.com/2019/09/09/travel/alaska-arctic-national-wildlife-refuge.html)[](https://alaskamagazine.com/authentic-alaska/culture/caribou-people/)
 * [ANWR wilderness is vital to caribou, Gwich'in people in Alaska](https://www.adn.com/commentary/article/anwr-wilderness-vital-caribou-gwichin-people-alaska/2015/03/13/)
 * [Caribou People](https://alaskamagazine.com/authentic-alaska/culture/caribou-people/)
 
@@ -48,5 +47,6 @@ title: The Importance of Caribou
 * [Protect the Arctic: Caribou](https://www.protectthearctic.org/caribou-wildlife)
 * [U.S. Fish & Wildlife Service: Caribou](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1167&context=usfwspubs)
 * [Alaska Department of Fish and Game, Summer 2017: Porcupine Caribou News](https://www.adfg.alaska.gov/static/home/library/pdfs/wildlife/porcupine_caribou_news/porcupine_caribou_news_summer_2017.pdf)
+* [Sitting in the Middle of a Massive Caribou Migration at Arctic National Wildlife Refuge](https://youtu.be/BcnbFAD5Kc0)
 
 <!--EndFragment-->
