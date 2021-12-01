@@ -21,10 +21,7 @@ title: Gwich'in Activism, Past and Present
         </div>
       </div>
    </section>
-```
-
-```
-<section id="portfolio" class="portfolio">
+   <section id="portfolio" class="portfolio">
   <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="300">      
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
@@ -41,6 +38,8 @@ title: Gwich'in Activism, Past and Present
       </div>
    </section>
 ```
+
+
 
 1. Current activists and their stories
 
