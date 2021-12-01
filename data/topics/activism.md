@@ -9,8 +9,8 @@ title: Gwich'in Activism, Past and Present
         <div class="portfolio-wrap">
           <img src="../assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
-            <h4>This is the title</h4>
-            <p>You can put all the text you want here.</p>
+            <h4>Current activists and their stories</h4>
+            <p></p>
             <div class="portfolio-links">
               <a href="../assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Current Activists and their stories"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
