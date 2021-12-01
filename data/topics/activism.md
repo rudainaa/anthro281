@@ -2,8 +2,6 @@
 layout: topic
 title: Gwich'in Activism, Past and Present
 ---
-
-
 ```
  <section id="portfolio" class="portfolio">
   <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="300">      
@@ -14,7 +12,7 @@ title: Gwich'in Activism, Past and Present
             <h4>This is the title</h4>
             <p>You can put all the text you want here.</p>
             <div class="portfolio-links">
-              <a href="../assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+              <a href="../assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Current Activists and their stories"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
@@ -23,19 +21,16 @@ title: Gwich'in Activism, Past and Present
    </section>
 ```
 
-
- 1. Current activists and their stories
+1. Current activists and their stories
 
    <https://grist.org/article/james1/> and <https://www.protectthearctic.org/blog/this-is-my-church-reflections-on-the-arctic-refuge-from-sarah-james> and <https://crcc.usc.edu/sarah-james-fighting-for-whats-sacred-in-the-arctic-national-wildlife-refuge/>
 
 * Sarah James’ story and her reflections on changes to Arctic National Wildlife Refuge and connections to climate change, experience with Sarah James that includes podcast
 
    <https://www.yesmagazine.org/environment/2020/09/24/alaska-indigenous-rights-anwr>
-
 * Quannah Chasinghorse and Kaila Druck speak on their role as young members of the Gwich’in and their continued activism. 
 
    <https://www.adn.com/alaska-life/2021/05/01/alaska-teen-activist-and-model-brings-indigenous-excellence-to-the-cover-of-vogue-mexico/>
-
 * Quannah Chasinghorse on the cover of Vogue Mexico. Speaks on her activism.
 
 2. Gwich’in response to trump’s sale of land
