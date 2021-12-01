@@ -7,19 +7,25 @@ thumbnail: /assets/media/09alaska-refuge5-superjumbo.jpg
 
 #### *Sarah James (Gwich'in Elder & Activist)*
 
-**The Caribou People (test)**
+**The Caribou People** 
 
 *The Gwich’in People & Their Activism Involving Caribou*
 
 * [The Gwich’in & the Arctic National Wildlife Refuge: A Fight Against Oil Development in the Arctic ](https://storymaps.arcgis.com/stories/c51710fa8124456283fabecb3cc9c4c5)​​[](https://www.smithsonianmag.com/science/gwichin-people-arctic-national-wildlife-refuge-180979001/)
+
+  * Article about fight against oil industry development in the Arctic due to the effects it has on the Porcupine Caribou Herd.
 * [For the Gwich’in People, the Arctic National Wildlife Refuge Isn’t a Political Issue, It’s Home](https://www.smithsonianmag.com/science/gwichin-people-arctic-national-wildlife-refuge-180979001/)
+
+  * Smithsonian article about how the caribou are an important aspect of the Gwich'in culture and Arctic National Wildlife Refuge.
 * [Caribou and People](https://www.nps.gov/gaar/learn/historyculture/caribou-and-people.htm)
 
   * This article provides deep insight into the relationship between the people and the caribou.
 * [Peter Mather Photography: Caribou People](https://www.petermather.com/Caribou-People-1/)
 
-  * The photographer Peter Matther, documents the Gwich’in people of arctic village and their relationship with the Porcupine Caribou Herd.
-* [Exploring a Timeless Wilderness, Before the Drilling Begins](https://www.nytimes.com/2019/09/09/travel/alaska-arctic-national-wildlife-refuge.html)[](https://alaskamagazine.com/authentic-alaska/culture/caribou-people/)
+  * The photographer Peter Matther, documents the Gwich’in people of arctic village and their relationship with the Porcupine Caribou Herd.[](https://www.nytimes.com/2019/09/09/travel/alaska-arctic-national-wildlife-refuge.html)[](https://alaskamagazine.com/authentic-alaska/culture/caribou-people/)
+* [Exploring a Timeless Wilderness, Before the Drilling Begins](https://www.nytimes.com/2019/09/09/travel/alaska-arctic-national-wildlife-refuge.html)
+
+  * New York Times article 
 * [ANWR wilderness is vital to caribou, Gwich'in people in Alaska](https://www.adn.com/commentary/article/anwr-wilderness-vital-caribou-gwichin-people-alaska/2015/03/13/)
 * [Caribou People](https://alaskamagazine.com/authentic-alaska/culture/caribou-people/)
 
