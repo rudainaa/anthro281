@@ -7,7 +7,7 @@ thumbnail: /assets/media/09alaska-refuge5-superjumbo.jpg
 
 #### *Sarah James (Gwich'in Elder & Activist)*
 
-**The Caribou People**
+**The Caribou People (test)**
 
 *The Gwich’in People & Their Activism Involving Caribou*
 
